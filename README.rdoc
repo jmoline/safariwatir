@@ -1,6 +1,8 @@
 "There's something eerily tingly about seeing a browser run by itself."
 http://twitter.com/swombat/status/1280692921
 
+test
+
 = SafariWatir
 
 * http://safariwatir.rubyforge.org
